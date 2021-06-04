@@ -1,8 +1,9 @@
 {
-  "name": "bonus",
-  "version": "1.0.0",
+  "name": "wcl-bonus-calculator",
+  "version": "0.1.0",
   "main": "index.html",
   "license": "MIT",
+  "author": "Packedcat <xc648593557@gmail.com>",
   "scripts": {
     "watch": "rollup -c rollup.config.js -w"
   },
